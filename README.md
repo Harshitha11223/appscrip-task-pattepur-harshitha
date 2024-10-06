@@ -24,7 +24,7 @@ This task involves creating a functional product discovery page that includes pr
 
 <h1>Installation</h1>
 
-Clone the repository : git clone https://github.com/khagesh-kumar/appscrip-task-khagesh-kumar.git
+Clone the repository : git clone https://github.com/Harshitha11223/appscrip-task-pattepur-harshitha.git
 
 Navigate to the project directory : cd appscrip-task-khagesh-kumar
 
