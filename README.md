@@ -26,7 +26,7 @@ This task involves creating a functional product discovery page that includes pr
 
 Clone the repository : git clone https://github.com/Harshitha11223/appscrip-task-pattepur-harshitha.git
 
-Navigate to the project directory : cd appscrip-task-khagesh-kumar
+Navigate to the project directory : cd appscrip-task-pattepur-harshitha
 
 Install dependencies : npm install
 
